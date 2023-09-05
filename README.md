@@ -1,1 +1,1 @@
-# kaggle-digit
+# kaggle-connectx
